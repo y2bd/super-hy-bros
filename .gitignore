@@ -1,0 +1,5 @@
+.codeintel/
+venv/
+*.py
+*.pyc
+userpass.hy
