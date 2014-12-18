@@ -1,0 +1,7 @@
+Twisted==14.0.2
+astor==0.4
+colorama==0.3.2
+hy==0.10.1
+pyreadline==2.0
+rply==0.7.3
+zope.interface==4.1.1
